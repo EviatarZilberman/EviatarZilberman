@@ -1,5 +1,5 @@
 - 👋 Hi, I’m EviatarZilberman
-- 👀 I’m interested in Java, C# etc development
+- 👀 I’m interested in backend and fullstack development
 - 📫 esztbk@gmail.com
 
 ![c-sharp](https://github.com/EviatarZilberman/EviatarZilberman/assets/101967227/ed9e606a-1fe1-42b1-95fa-dc5fd5d9aee2)
