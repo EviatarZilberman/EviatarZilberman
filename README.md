@@ -8,4 +8,4 @@
 ![postgresql](https://github.com/EviatarZilberman/EviatarZilberman/assets/101967227/32c2c723-590e-43db-aa4d-3a1e889e9cbf)
 ![mongodb](https://github.com/EviatarZilberman/EviatarZilberman/assets/101967227/ddd26b09-d27a-420d-aa3a-6d4e86a5343b)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eviatarzilberman)](https://github.com/anuraghazra/github-readme-stats)
