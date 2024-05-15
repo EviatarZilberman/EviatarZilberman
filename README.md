@@ -7,4 +7,4 @@
 <img src="https://github.com/EviatarZilberman/EviatarZilberman/assets/101967227/ddd26b09-d27a-420d-aa3a-6d4e86a5343b.jpg" width="130" height="130"/>
 <br><br><br>
 <img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eviatarzilberman&layout=compact"/>
-(https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eviatarzilberman)](https://github.com/anuraghazra/github-readme-stats)
+
