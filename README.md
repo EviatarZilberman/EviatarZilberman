@@ -9,6 +9,6 @@
 <img src="https://github.com/EviatarZilberman/EviatarZilberman/assets/101967227/ddd26b09-d27a-420d-aa3a-6d4e86a5343b.jpg" width="130" height="130"/>
 <img src="https://github.com/EviatarZilberman/EviatarZilberman/assets/101967227/32c2c723-590e-43db-aa4d-3a1e889e9cbf.jpg" width="130" height="130"/>
 
-<img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eviatarzilberman&layout=compact"/>
+<!-- <img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eviatarzilberman&layout=compact"/> -->
 
 
